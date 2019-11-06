@@ -1,2 +1,2 @@
 # Nominas
-//Ejemplo readme
+Una pequeña práctica de GIT
